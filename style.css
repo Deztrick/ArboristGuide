@@ -1,5 +1,54 @@
-.Tree2 {
-  width: 200px;
-  height: 200px;
-  overflow: hidden;
+body{
+      background-color: #f5ecdc;
+}
+h1{
+    font-family: "consolas", "sans-serif";
+    border-top-style: dotted;
+    border-style: dotted;
+    border-color: silver;
+    text-align: center;
+}
+h3{
+  font-family: "consolas", "sans-serif";
+}
+#p1{
+  font-family: "consolas", "sans-serif";
+  border-style:outset;
+  border-color:white;
+  border-radius: 10px;
+  text-align: center;
+
+}
+#p2{
+  font-family: "consolas", "sans-serif";
+  border-style:outset;
+  border-color:white;
+  border-radius: 10px;
+  text-align: center;
+
+}
+a{
+    text-align: center;
+
+    border-radius: 25px;
+    border-color: black;
+    
+}
+#p3{
+  font-family: "consolas", "sans-serif";
+  color: red;
+  border-style:groove;
+  border-color:white;
+  border-radius: 20px;
+  text-align: center;
+
+}
+#g4{
+  font-family: "consolas", "sans-serif";
+  color: black;
+  border-style:inherit;
+  border-color:white;
+  border-radius: 20px;
+  text-align: center;
+
 }
